@@ -35,7 +35,7 @@ class FakeStore {
       rate: data["rating"]["rate"],
       stock: data["rating"]["count"],
       count: 1,
-      total: data["price"],
+      total: data["price".padLeft(1)],
       addorNot: true,
     );
   }
