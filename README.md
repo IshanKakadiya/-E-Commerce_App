@@ -1,16 +1,23 @@
-# ecommerce_product
+# E-Commerce App
 
-A new Flutter project.
+Simple ***E-Commerce App*** Created with **Flutter Freamwork** And **Dart Language**
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Functionality
 
-A few resources to get you started if this is your first Flutter project:
+- Attractive UI
+- User Friendly
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots 
+<img src="https://user-images.githubusercontent.com/113764228/202183950-787460d2-2e9f-4ba3-9a0b-d9eb76d5b504.jpg" width="400"> &nbsp; 
+<img src="https://user-images.githubusercontent.com/113764228/202183895-2c8141e8-d711-4b32-afbb-7b6d253fbe46.jpg" width="400"> &nbsp; 
+<img src="https://user-images.githubusercontent.com/113764228/202183922-9ee35356-d347-4ff3-9478-2fddcd7042a3.jpg" width="400"> &nbsp; 
+
+
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at ishankakadiya7@gmail.com
+
